@@ -16,18 +16,15 @@ Enable users to ask questions about the uploaded PDFs and receive accurate answe
 Retrieve relevant sections from the documents for better context.
 
 Screenshots
-<img width="1440" alt="Screenshot 2025-01-06 at 10 52 26 PM" src="https://github.com/user-attachments/assets/18a74a4b-9ef2-4162-b413-965534e27bd6" />
+<img width="1440" alt="Screenshot 2025-01-07 at 12 47 30 AM" src="https://github.com/user-attachments/assets/a693d4d0-e93b-46e2-9fb0-66313751b54d" />
+
 Upload PDF Files
-
-
-Extracted Text Display
-
+<img width="1440" alt="Screenshot 2025-01-07 at 12 48 18 AM" src="https://github.com/user-attachments/assets/0baf6106-8926-43e0-8adc-940459086e52" />
 
 Question-Answering Interface
 
-
-Relevant Sections Highlighted
-
+<img width="1440" alt="Screenshot 2025-01-07 at 12 49 52 AM" src="https://github.com/user-attachments/assets/f6276ad9-a432-448d-bdc6-abe7921e3a3c" />
+<img width="1440" alt="Screenshot 2025-01-07 at 12 50 25 AM" src="https://github.com/user-attachments/assets/5a5bae56-5431-4662-bea2-229d65a40291" />
 
 Setup Instructions
 
