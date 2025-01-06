@@ -1,7 +1,7 @@
 # PDF-Chat-Application
 Overview
 
-This repository contains the Chat with PDF Application, an interactive tool that allows users to upload PDF documents, extract their content, convert the text into embeddings using Sentence Transformers, and perform question-answering tasks using the extracted content. The app is built with Streamlit and employs efficient similarity search via FAISS.
+This repository contains the Chat with PDF Application, an interactive tool that allows users to upload PDF documents, extract their content, convert the text into embeddings using Sentence Transformers, and perform question-answering tasks using the extracted content. The app is built with Streamlit.
 
 Features
 
