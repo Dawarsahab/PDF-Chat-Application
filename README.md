@@ -16,7 +16,7 @@ Enable users to ask questions about the uploaded PDFs and receive accurate answe
 Retrieve relevant sections from the documents for better context.
 
 Screenshots
-
+<img width="1440" alt="Screenshot 2025-01-06 at 10 52 26 PM" src="https://github.com/user-attachments/assets/18a74a4b-9ef2-4162-b413-965534e27bd6" />
 Upload PDF Files
 
 
@@ -38,11 +38,6 @@ Python (>= 3.8)
 Recommended: A virtual environment for dependency management.
 
 Installation
-
-Clone the Repository:
-
-git clone https://github.com/your_username/chat-with-pdf.git
-cd chat-with-pdf
 
 Create a Virtual Environment (optional but recommended):
 
